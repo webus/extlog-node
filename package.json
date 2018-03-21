@@ -14,8 +14,8 @@
     "le_node": "^1.7.1",
     "lodash": "^4.17.5",
     "serialize-error": "^2.1.0",
-    "winston": "^3.0.0-rc3",
+    "winston": "^3.0.0-rc1",
     "winston-graylog2": "^0.6.0",
-    "winston-raven-sentry": "git://github.com/wyvasi/winston-raven-sentry.git#master"
+    "winston-raven-sentry": "git://github.com/wyvasi/winston-raven-sentry.git"
   }
 }
